@@ -4,7 +4,7 @@ The 2nd Workshop on Advances in Representation Learning for Earth Observation - 
 
 Find the workshop's webpage [here](https://reo-workshop.org/2026)!
 
-Camera-ready versions of the Research Track papers are in [`papers/`](papers/).
+Camera-ready versions of the Research Track papers are in [`papers/`](papers/), posters in [`posters/`](posters/).
 
 ## Highlights Track
 
